@@ -1,0 +1,7 @@
+pandas
+numpy
+sql-connector-python
+sckit-learn
+matplotlib
+seaborn
+openpyxl
