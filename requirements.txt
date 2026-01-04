@@ -1,7 +1,8 @@
 pandas
 numpy
-sql-connector-python
-sckit-learn
+mysql-connector-python
+scikit-learn
 matplotlib
 seaborn
 openpyxl
+sqlalchemy
