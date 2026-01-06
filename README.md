@@ -79,7 +79,8 @@ password = 'yourpassword'
 
 ### Video Demo
 
-[Watch Dashboard Demo Video](https://github.com/rahul22106/Vaccine_Data_Analysis/blob/main/powerbi.mp4)
+[Watch Dashboard Demo Video](<video src="https://github.com/rahul22106/Vaccine_Data_Analysis/blob/main/powerbi.mp4" controls width="800">
+</video>)
 
 ## License
 
