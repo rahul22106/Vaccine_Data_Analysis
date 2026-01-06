@@ -79,9 +79,9 @@ password = 'yourpassword'
 
 ### Video Demo
 
-<video src="https://github.com/rahul22106/Vaccine_Data_Analysis/blob/main/powerbi.mp4" controls width="800">
-  Your browser does not support the video tag.
-</video>
+https://github.com/rahul22106/Vaccine_Data_Analysis/blob/main/powerbi.mp4
+
+*Interactive Power BI dashboard demonstration showing all 4 dashboards and navigation*
 
 ## License
 
