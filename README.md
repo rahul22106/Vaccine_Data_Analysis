@@ -79,7 +79,7 @@ password = 'yourpassword'
 
 ### Video Demo
 
-[Watch Dashboard Demo Video](link-to-your-video)
+[Watch Dashboard Demo Video](https://github.com/rahul22106/Vaccine_Data_Analysis/blob/main/powerbi.mp4)
 
 ## License
 
